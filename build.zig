@@ -4,11 +4,11 @@ const zine = @import("zine");
 pub fn build(b: *std.Build) !void {
     zine.website(b, .{
         .title = "Zigtoberfest",
-        .host_url = "https://r4gus.github.io/zigtoberfest",
+        .host_url = "https://zigtoberfest.de",
         .layouts_dir_path = "layouts",
         .content_dir_path = "content",
         .static_dir_path = "static",
-        .debug = true,
+        .debug = false,
     });
 
     // This line creates a build step that generates an updated
