@@ -1,2 +1,2 @@
-# zine-ssg.io
-The official website for https://github.com/kristoff-it/zine
+# Zigtoberfest
+The official website for Zigtoberfest 2024
