@@ -1,5 +1,5 @@
 .{
-    .name = "Zine Official Website",
+    .name = "Zigtoberfest Official Website",
     .version = "0.0.0",
     .dependencies = .{
         .zine = .{
