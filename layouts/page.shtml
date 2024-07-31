@@ -28,7 +28,7 @@
 			font-size: 1rem;
 		}
   </style>
-  <h3 class="overtitle centered">Zine</h3>
+  <h3 class="overtitle centered">Zigtoberfest 2024</h3>
   <h1 class="title" var="$page.title"></h1>
   <div id="page" var="$page.content"></div>
 </div>

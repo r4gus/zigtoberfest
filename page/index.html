@@ -1,6 +1,24 @@
-<extend template="base.shtml">
-<title id="title" var="$page.title"></title>
-<head id="head">
+<!DOCTYPE html>
+<html>
+  <head id="head">
+    <meta charset="UTF-8">
+    <meta name="description" content="Zine: Fast, Scalable and Flexible Static Site Generator">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@croloris">
+    <meta name="twitter:author" content="@croloris">
+    <meta name="twitter:description" content="Zine: Fast, Scalable and Flexible Static Site Generator">
+    <meta name="twitter:title" content="Home - Zine">
+    <meta property="og:title" content="Home">
+    <meta property="og:type" content="website">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title id="title">
+      Home
+      - Zine
+    </title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+    <link rel="stylesheet" type="text/css" href="/highlight.css">
+    
   <style>
     #page h2,
 		#page h3 {
@@ -72,8 +90,16 @@
 			background-color: white;
 		}
   </style>
-</head>
-<div id="content">
+
+  </head>
+  <body>
+    <nav id="menu" class="centered">
+      <a href="/">Home</a>
+      •
+      <a href="/community/">About</a>
+    </nav>
+    <div id="content">
+      
   <h1 class="centered title">Zigtoberfest</h1>
   <h2 class="centered subtitle">Oct 19th 2024</h2>
   <p class="centered tagline">
@@ -83,7 +109,7 @@
       The <a href="https://form.jotform.com/241586649790068" target="_blank">Call for Speakers</a> is still open! We are interested in a variety of topics related to programming, not just Zig! If you have something exciting to share, we encourage you to present it.
   </div>
   <div class="get-started"><a href="https://form.jotform.com/241653144540046" target="_blank">Register Now</a></div>
-  <div id="page" var="$page.content"></div>
+  <div id="page" ><h1>What is Zigtoberfest?</h1><p>Zigtoberfest is a half-day event filled with insightful talks organized by the <a href="https://ziglang.org/">Zig</a> community in Munich. This event is a fantastic chance to connect with like-minded individuals from the Zig community and share your passion for programming.</p><p>The event is open to everyone--all at no cost! We have limited seats available so make sure to <a href="https://form.jotform.com/241653144540046" target="_blank">Register Now</a>!</p><p><figure data-title=""><img src="patch.png" alt="" title=""></figure></p><h1>Program</h1><p>The program is tentative and may be subject to changes.</p><p>All times are in central european summer time.</p></div>
     
   <table>
   <caption>
@@ -169,4 +195,7 @@
 </table>
 
   <div class="get-started"><a href="https://form.jotform.com/241653144540046" target="_blank">Register Now</a></div>
-</div>
+
+    </div>
+  </body>
+</html>
