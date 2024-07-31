@@ -24,7 +24,7 @@
 			margin-top: 2em;
 		}
   </style>
-  <h3 class="centered">Zine</h3>
+  <h3 class="centered"></h3>
   <h1 var="$page.title"></h1>
   <div id="reference" var="$page.content"></div>
 </div>

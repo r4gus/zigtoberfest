@@ -28,7 +28,7 @@
 			font-size: 1rem;
 		}
   </style>
-  <h3 class="centered">Zine</h3>
+  <h3 class="centered"></h3>
   <h1 var="$page.title"></h1>
   <div id="docs" var="$page.content"></div>
 </div>
