@@ -62,30 +62,34 @@ h2,
 h3 {
   font-family: 'Bebas Neue', sans-serif;
   font-weight: normal;
-  color: #eee;
+  color: black;
   align-self: center;
   text-align: center;
 }
 
 h4 {
-  color: #eee;
+  color: black;
 }
 
 b,
 strong {
-  color: #eee;
+  color: black;
 }
 
 a {
-  color: #ccc;
+  color: orange;
   font-weight: bold;
 }
 
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
 
 body {
   font-family: 'Merriweather', serif;
-  background-color: #111;
-  color: #ccc;
+  background-color: white;
+  color: black;
   display: flex;
   flex-direction: column;
   padding-bottom: 20px;
@@ -103,13 +107,14 @@ nav {
 }
 
 nav a {
-  color: white;
+  color: black;
   text-decoration: none;
 }
 
 
 nav a:hover {
   text-decoration: underline;
+  color: orange;
 }
 
 #content {
