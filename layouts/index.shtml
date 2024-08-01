@@ -45,8 +45,8 @@
 		}
 
 		.note {
-			border-top: 1px solid white;
-			border-bottom: 1px solid white;
+			border-top: 1px solid orange;
+			border-bottom: 1px solid orange;
 			padding: 2px 5px;
 			text-align: center;
 		}
@@ -171,6 +171,6 @@
 
   <div class="get-started"><a href="https://form.jotform.com/241653144540046" target="_blank">Register Now</a></div>
 
-    This site is build using <a href="https://zine-ssg.io/" target_="_blank">Zine</a> by Loris Cro.
+  <div class="centered">This site is build using <a href="https://zine-ssg.io/" target_="_blank">Zine</a> by Loris Cro.</div>
 </div>
 
