@@ -25,6 +25,8 @@
       <a href="/">Home</a>
       •
       <a href="/community/">About</a>
+      •
+      <a href="/location/">Location</a>
     </nav>
     <div id="content">
       <super>
