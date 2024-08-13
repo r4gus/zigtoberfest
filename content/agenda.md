@@ -40,7 +40,7 @@ In embedded systems programming I/O devices are controlled through memory mapped
 
 I'm an embedded systems developer from Bologna, Italy. I have a Master's degree in Computer Science and almost 10 years of experience in the field. I'm also a enthusiast for everything that involves programming languages, from Logic to compilers. I've written a few [blog posts on Medium](https://medium.com/@maldus512).
 
-## Exploring properties of constraint programs in ZIG
+## Exploring properties of constraint programs
 
 Only few people are familiar with the paradigm of constraint programming, which is unfortunate! Unlike imperative programming, where you explicitly define a sequence of steps to achieve a result, constraint programming focuses on specifying the desired properties of the result. This approach often allows us to formulate algorithms in a much more concise way.
 
