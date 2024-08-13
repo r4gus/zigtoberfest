@@ -39,3 +39,15 @@ In embedded systems programming I/O devices are controlled through memory mapped
 ### Speaker: Mattia Maldini
 
 I'm an embedded systems developer from Bologna, Italy. I have a Master's degree in Computer Science and almost 10 years of experience in the field. I'm also a enthusiast for everything that involves programming languages, from Logic to compilers. I've written a few [blog posts on Medium](https://medium.com/@maldus512).
+
+## Exploring properties of constraint programs in ZIG
+
+Only few people are familiar with the paradigm of constraint programming, which is unfortunate! Unlike imperative programming, where you explicitly define a sequence of steps to achieve a result, constraint programming focuses on specifying the desired properties of the result. This approach often allows us to formulate algorithms in a much more concise way.
+
+We will explore constraint programming through the lens of CHR (Constraint Handling Rules). Therefore, I will provide an embedding of CHR into the ZIG language, and we will use this embedding to examine some example CHR programs and their properties. We'll pay particular attention to confluence and the completion algorithm, and we'll discuss the additional benefits that confluence automagically provides.
+
+We could also look at some rule based formalisms and how we could embed them into CHR (and embedding inside an embedding lol). But there's probably not enough time for that, and this is definitely a big enough topic to deserve its own talk (maybe at the next Zigtoberfest :D)
+
+### Speaker: Lukas Pietzschmann
+
+I'm currently studying for my master's in CS at Ulm University, where I also got to know the topic I want to present.
