@@ -51,3 +51,11 @@ We could also look at some rule based formalisms and how we could embed them int
 ### Speaker: Lukas Pietzschmann
 
 I'm currently studying for my master's in CS at Ulm University, where I also got to know the topic I want to present.
+
+## Flow Control: a programmer's text editor
+
+I will talk about the development of the the Flow Control text editor that is written in Zig. Including a short demo of the editor's functions and a quick overview of it's internal architecture and design.
+
+### Speaker: CJ van den Berg (aka neurocyte)
+
+I am known as neurocyte on github and in the Zig community. I am a software engineer by day, working on large scale high performance projects. Mostly in C++, but at one point or another I've used pretty much every language out there. With 30 years of development experience I've been around the world and an worked in many different industries. I learned Zig about two years ago and spend most of my free hobby time working on Flow Control. Today I live in the German countryside with my family and work remotely in Prague.
