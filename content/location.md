@@ -17,4 +17,4 @@ You can reach the location using the tram lines 20, 21, and 22 or by bus using l
 
 ![](Lageplan.jpg)
 
-It is recommended to [join the Zig Discord server](https://discord.gg/2spH47wU).
+It is recommended to [join the Zig Discord server](https://discord.gg/zig). 
