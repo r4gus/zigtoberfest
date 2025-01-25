@@ -9,7 +9,7 @@
 }  
 --- 
 
-The event will take place at the university of applied science in Munich, **Lothstraße 64 80335 Munich, Germany, Room R1.007**. 
+The event will take place at the university of applied science in Munich, **Lothstraße 64 80335 Munich, Germany** (more details will follow). 
 
 ![](loth64.jpg)
 

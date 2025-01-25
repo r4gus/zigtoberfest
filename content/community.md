@@ -21,3 +21,5 @@ You might have met me at one of the <a href="https://softwareyoucan.love/">Softw
 I want Zigtoberfest to be a small but pleasant event for all attendees, regardless of your background, where you can socialize, share ideas and meet other people from the community. If you attend the event, don't be shy and say hi!
 
 You can reach me on Discord or via email: david (at) thesugar.de
+
+![](me.jpeg)
