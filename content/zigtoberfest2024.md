@@ -21,3 +21,5 @@ Zigtoberfest 2024 was held on Oct 18th 2024 at the University of Applied Science
 
 ![](luke.JPG)
 
+![](fr.JPG)
+
