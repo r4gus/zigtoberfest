@@ -9,7 +9,7 @@
 }  
 --- 
 
-![](Zigtoberfest-01.png)
+![](Zigtoberfest-Mascot.png)
 
 # What is Zigtoberfest?
 Zigtoberfest, launched in 2024, is a conference focused on sharing experience and knowledge among the Zig community. This event is a fantastic chance to connect with like-minded individuals from the Zig community and share your passion for programming. 
