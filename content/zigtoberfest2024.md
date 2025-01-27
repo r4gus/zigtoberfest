@@ -11,6 +11,8 @@
 
 Zigtoberfest 2024 was held on Oct 18th 2024 at the University of Applied Sciences Munich.
 
+Special thanks to Rene, Loris, Mattia, Lukas and all the others without whom the event would not heve been possible.
+
 ![](all.JPG)
 
 ![](reneanddavid.JPG)
@@ -22,4 +24,6 @@ Zigtoberfest 2024 was held on Oct 18th 2024 at the University of Applied Science
 ![](luke.JPG)
 
 ![](fr.JPG)
+
+![](attendees.png)
 
