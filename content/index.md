@@ -28,6 +28,6 @@ The event is open to everyone--all at no cost! We have limited seats available s
 
 # Event Details
 
-- Date: Saturday Nov 1st 2025
+- Date: Saturday Oct 25th 2025
 - Location: University of Applied Sciences Munich (more details will follow)
 - Time: 9am - 5:30pm (09:00 - 17:30 Uhr)
