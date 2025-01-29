@@ -18,6 +18,8 @@ You can find the recordings of Zigtoberfest 2024 on [Youtube](https://www.youtub
 
 The event is open to everyone--all at no cost! We have limited seats available so make sure to <a href="" target="_blank">Register Now</a>!
 
+The Name Zigtoberfest is a combination of the words Zig (the programming language) and Oktoberfest, as the event takes place in Munich. It was coined by [Rene](https://renerocks.ai/) during a discussion on Discord.
+
 # What is Zig?
 
 [Zig](https://ziglang.org/) is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software. Among other things, it offers a fresh approach to metaprogramming based on compile-time code execution and lazy evaluation. Zig can also be used as a zero-dependency, drop-in C/C++ compiler that supports cross-compilation out-of-the-box.
