@@ -85,10 +85,10 @@
 
       <a href="https://form.jotform.com/241586649790068" target="_blank">Click here</a> to submit a proposal for a presentation at Zigtoberfest, we'd love to hear your ideas!
   </div>
-  <div class="get-started"><a href="https://www.eventbrite.it/e/zigtoberfest-2025-tickets-1209874409929?aff=oddtdtcreator" target="_blank">Register Now</a></div>
+  <div class="get-started"><a href="https://www.eventbrite.de/e/zigtoberfest-2025-tickets-1209874409929?aff=oddtdtcreator" target="_blank">Register Now</a></div>
   <div id="page" var="$page.content"></div>
     
-  <div class="get-started"><a href="https://www.eventbrite.it/e/zigtoberfest-2025-tickets-1209874409929?aff=oddtdtcreator" target="_blank">Register Now</a></div>
+  <div class="get-started"><a href="https://www.eventbrite.de/e/zigtoberfest-2025-tickets-1209874409929?aff=oddtdtcreator" target="_blank">Register Now</a></div>
 
   <div class="centered">This site is build using <a href="https://zine-ssg.io/" target_="_blank">Zine</a></div>
 </div>
