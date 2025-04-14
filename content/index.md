@@ -9,7 +9,7 @@
 }  
 --- 
 
-![](Zigtoberfest-Mascot.png)
+![](Zigtoberfest-02-bavaria.png)
 
 # What is Zigtoberfest?
 Zigtoberfest, launched in 2024, is a conference focused on sharing experience and knowledge among the Zig community. This event is a fantastic chance to connect with like-minded individuals from the Zig community and share your passion for programming. 
@@ -33,3 +33,5 @@ The Name Zigtoberfest is a combination of the words Zig (the programming languag
 - Date: Saturday Oct 25th 2025
 - Location: University of Applied Sciences Munich, **R 0.058**
 - Time: 9am - 5:30pm (09:00 - 17:30 Uhr)
+
+![](Zigtoberfest-round.png)
