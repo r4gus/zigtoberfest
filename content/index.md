@@ -11,6 +11,27 @@
 
 ![](Zigtoberfest-02-bavaria.png)
 
+<div id="eventbrite-widget-container-1209874409929"></div>
+
+<script src="https://www.eventbrite.de/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Bestellung ist abgeschlossen!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '1209874409929',
+        iframeContainerId: 'eventbrite-widget-container-1209874409929',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+
 # What is Zigtoberfest?
 Zigtoberfest, launched in 2024, is a conference focused on sharing experience and knowledge among the Zig community. This event is a fantastic chance to connect with like-minded individuals from the Zig community and share your passion for programming. 
 
