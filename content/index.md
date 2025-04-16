@@ -16,7 +16,7 @@ Zigtoberfest, launched in 2024, is a conference focused on sharing experience an
 
 You can find the recordings of Zigtoberfest 2024 on [Youtube](https://www.youtube.com/@zigtoberfest/videos).
 
-The event is open to everyone--all at no cost! We have limited seats available so make sure to <a href="" target="_blank">Register Now</a>!
+The event is open to everyone--all at no cost! We have limited seats available so make sure to <a href="https://www.eventbrite.de/e/zigtoberfest-2025-tickets-1209874409929?aff=oddtdtcreator" target="_blank">Register Now</a>!
 
 The Name Zigtoberfest is a combination of the words Zig (the programming language) and Oktoberfest, as the event takes place in Munich. It was coined by [Rene](https://renerocks.ai/) during a discussion on Discord.
 
