@@ -25,7 +25,8 @@
       <a href="$site.page('location').link()">Location</a>
        &nbsp; • &nbsp;
       <a href="$site.page('about').link()">About</a>
-       &nbsp; • &nbsp;
+    </nav>
+    <nav>
       <a href="$site.page('news').link()">News</a>
        &nbsp; • &nbsp;
       <a href="$site.page('past').link()">Past Events</a>
