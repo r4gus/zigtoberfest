@@ -1,0 +1,15 @@
+---
+.title = "News",
+.date = @date("1990-01-01T00:00:00"),
+.author = "David P. Sugar",
+.layout = "index.shtml",
+.draft = false,
+---
+
+> On this page we will publish news related to the upcoming Zigtoberfest.
+
+## May 2nd 2025
+
+- The website has been updated to work with [Zine `v0.10.2`](https://github.com/kristoff-it/zine/releases/tag/v0.10.2).
+- New layout for website.
+- The agenda has been added.

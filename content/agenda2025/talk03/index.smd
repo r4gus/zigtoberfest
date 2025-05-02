@@ -1,0 +1,26 @@
+---
+.title = "",
+.date = @date("1990-01-01T00:00:00"),
+.author = "David P. Sugar",
+.layout = "talk.shtml",
+.draft = false,
+--- 
+
+# []($section.id('left'))
+### How To Write Better Software With Zig
+
+> *01:30 PM • Duration: 45 Min*
+
+A collection of suggestions on how to write impactful, high quality software using Zig. From picking a subject, to selecting your dependencies, up to dealing with issues on GitHub. Most of these ideas are not mine, but rather stolen from other successful Zig projects :^).
+
+#### About Loris
+
+I'm VP of Community at the Zig Software Foundation.
+
+# []($section.id('right'))
+![](speaker.png "speaker")
+
+> [Loris Cro](https://kristoff.it/)
+
+> *VP of Community at the Zig Software Foundation*
+

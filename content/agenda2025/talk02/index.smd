@@ -1,0 +1,30 @@
+---
+.title = "",
+.date = @date("1990-01-01T00:00:00"),
+.author = "David P. Sugar",
+.layout = "talk.shtml",
+.draft = false,
+--- 
+
+# []($section.id('left'))
+### Lock-free data structures in Zig
+
+> *11:00 AM • Duration: 45 Min*
+
+Locks are a common tool in concurrent programming, but they come with some significant drawbacks. They can slow down performance, cause deadlocks, lead to priority inversion, and make your code more complex and harder to manage. These challenges highlight the need for better solutions.
+
+Enter lock-free data structures! When done right, they can eliminate the need for traditional locks by using atomic operations. This means threads can work together smoothly without getting stuck waiting for each other, making your programs faster and easier to understand.
+
+We will explore how lock-free data structures can be implemented in zig, when/under what access patterns they perform best, and when they might be overkill. We will also touch on related concepts like progress guarantees, or different levels of "freeness".
+
+#### About Lukas
+
+I'm Lukas, a [research assistant](https://www.uni-ulm.de/in/vs/inst/team/lukas-pietzschmann/) at the Institute of Distributed Systems at Ulm University. I started to learn Zig for my [talk](https://lukas.pietzschmann.org/talks/zigtoberfest) at last year's Zigtoberfest, and since then, I have been zigging around more and more :).
+
+# []($section.id('right'))
+![](speaker.jpg "speaker")
+
+[Lukas Pietzschmann](https://lukas.pietzschmann.org/)
+
+*Research assistant at the Institute of Distributed Systems at Ulm University*
+

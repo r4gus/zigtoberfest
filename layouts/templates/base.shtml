@@ -1,38 +1,41 @@
 <!DOCTYPE html>
 <html>
   <head id="head">
-    <meta charset="UTF-8">
-    <meta name="description" content="Zigtoberfest in Munich">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@croloris">
-    <meta name="twitter:author" content="@croloris">
-    <meta name="twitter:description" content="Zigtoberfest in Munich">
-    <meta name="twitter:title" content="$page.title.suffix(' - Zigtoberfest')">
-    <meta property="og:title" content="$page.title">
-    <meta property="og:type" content="website">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title id="title">
-      <super>
-      - Zigtoberfest
-    </title>
-    <link rel="stylesheet" type="text/css" href="/style.css">
-    <link rel="stylesheet" type="text/css" href="/highlight.css">
+    <meta charset="utf-8">
+    <meta name="description" content="Zig conference in Munich">
+    <meta name="viewport" content="initial-scale=1">
+    <title :text="$site.title"></title>
+    <link type="text/css" rel="stylesheet" href="$site.asset('style.css').link()">
+    <link type="text/css" rel="stylesheet" href="$site.asset('highlight.css').link()">
+    <!-- mathtex -->
+    <link type="text/css" rel="stylesheet" href="$site.asset('Temml-Local.css').link()">
+    <script defer src="$site.asset('temml.min.js').link()"></script>
+    <script defer src="$site.asset('render-mathtex.js').link()"></script>
+    <!-- /mathtex -->
     <super>
   </head>
-  <body>
-    <nav id="menu" class="centered">
-      <a href="/">Home</a>
-      •
-      <a href="/community/">About</a>
-      •
-      <a href="/location/">Location</a>
-      •
-      <a href="/zigtoberfest2024/">Zigtoberfest 2024</a>
+  <body id="body">
+      <!--<h1 class="site-title" :text="$site.title"></h1>-->
+    <img src="/Zigtoberfest-02-bavaria.png" id="zober01" alt="Zigtoberfest Mascot" width="400px">
+    <nav>
+      <a href="$site.page('').link()">Home</a>
+       &nbsp; • &nbsp;
+      <a href="$site.page('agenda2025').link()">Agenda</a>
+       &nbsp; • &nbsp;
+      <a href="$site.page('location').link()">Location</a>
+       &nbsp; • &nbsp;
+      <a href="$site.page('about').link()">About</a>
+       &nbsp; • &nbsp;
+      <a href="$site.page('news').link()">News</a>
+       &nbsp; • &nbsp;
+      <a href="$site.page('past').link()">Past Events</a>
     </nav>
-    <div id="content">
-        <!--<img src="/Zigtoberfest-01.png">-->
-      <super>
-    </div>
+    <super>
+    <footer>
+      <hr>
+      Responsible for the content of this page is David Sugar (zigtoberfest (at) thesugar.de).
+
+      <div class="centered">This site is build using <a href="https://zine-ssg.io/" target="_blank">Zine</a></div>
+    </footer>
   </body>
 </html>
