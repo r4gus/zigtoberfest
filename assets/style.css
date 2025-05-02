@@ -25,6 +25,42 @@ a:hover {
   color: black;
 }
 
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 480px) {
+    body {
+      width: 480px;
+      padding: 15px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    img {
+        max-width: 480;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 800px) {
+    body {
+      width: 800px;
+      padding: 15px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    img {
+        max-width: 800px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+}
+
 html {
   color: black;
   font-family: "Georgia", serif;
@@ -33,13 +69,6 @@ html {
   flex-direction: row;
   justify-content: center;
   background-color: white;
-}
-
-body {
-  width: 640px;
-  padding: 15px;
-  display: flex;
-  flex-direction: column;
 }
 
 .site-title {
@@ -92,14 +121,6 @@ footer {
 
 footer hr {
   width: 100%;
-}
-
-img {
-    max-width: 640px;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
 }
 
 img[alt=zober01] {
