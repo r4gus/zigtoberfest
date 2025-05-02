@@ -26,16 +26,16 @@ a:hover {
 }
 
 /* Medium Devices, Desktops */
-@media only screen and (min-width : 480px) {
+@media only screen and (min-width : 300px) {
     body {
-      width: 480px;
+      width: 95%;
       padding: 15px;
       display: flex;
       flex-direction: column;
     }
 
     img {
-        max-width: 480;
+        max-width: 95%;
         text-align: center;
         margin-left: auto;
         margin-right: auto;
