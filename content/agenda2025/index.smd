@@ -32,10 +32,18 @@ All times are in [Central European Time (CET)](https://time.is/CET).
         </tr>
         <tr style="background-color:white;">
             <td style="padding:12px;">
-                <a href="/agenda2025/talk01/"><b>I made the fastest image comparison library faster with zig</b></a>
-                <p>Dmitriy Kovalenko</p>
+            <a href=""><b>1st Talk</b></a>
+                <p>Coming soon...</p>
             </td>
             <td style="width:30%;padding:12px;">10:00 AM - 11:00 AM</td>
+        </tr>
+        <tr style="background-color:white;">
+            <td style="padding:12px;">
+            <p style="color:red;">Cancelled due to administrative problems</p>
+            <s><a href="/agenda2025/talk01/"><b style="color:grey;">I made the fastest image comparison library faster with zig</b></a></s>
+                <s><p style="color:grey;">Dmitriy Kovalenko</p></s>
+            </td>
+            <s><td style="width:30%;padding:12px;color:grey;">10:00 AM - 11:00 AM</td></s>
         </tr>
         <tr style="background-color:white;">
             <td style="padding:12px;">

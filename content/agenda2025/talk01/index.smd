@@ -7,6 +7,10 @@
 --- 
 
 # []($section.id('left'))
+```=html
+<p><b style="color:red;">Cancelled due to administrative problems</b></p>
+```
+
 ### I made the fastest image comparison library faster with zig
 
 > *10:00 AM • Duration: 45 Min*
