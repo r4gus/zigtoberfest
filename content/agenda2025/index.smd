@@ -32,8 +32,9 @@ All times are in [Central European Time (CET)](https://time.is/CET).
         </tr>
         <tr style="background-color:white;">
             <td style="padding:12px;">
-            <a href=""><b>1st Talk</b></a>
-                <p>Coming soon...</p>
+            <b>Zig's New Async I/O Demo</b>
+                <p>Andrew &amp; Zig Core Team <i style="font-size:0.6em;">(Zig Software Foundation)</i></p>
+            <p>Andrew and the Zig Core Team will start of Zigtoberfest 2025 with a Q&amp;A as well as a demo of the new async I/O.</p>
             </td>
             <td style="width:30%;padding:12px;">10:00 AM - 11:00 AM</td>
         </tr>
