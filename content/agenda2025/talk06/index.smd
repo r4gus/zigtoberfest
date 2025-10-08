@@ -1,0 +1,30 @@
+---
+.title = "",
+.date = @date("1990-01-01T00:00:00"),
+.author = "David P. Sugar",
+.layout = "talk.shtml",
+.draft = false,
+--- 
+
+# []($section.id('left'))
+### Send all your private data to ChatGPT
+
+> *05:00 PM • Duration: 45 Min*
+
+A couple of weeks ago, my cloud provider bill suddenly and unexpectedly went through the roof. To react quickly and figure out what was going on, I did what anyone would do in 2025: I sent the server logs to ChatGPT and asked it to analyze them and tell me what to do.
+
+Of course, these logs contained a ton of private information that should never be shared with third parties, but whatever. Just before that, I had already used an MCP server to get insights about another service, using private data as well. So I was probably already on my way to hell.
+
+Or maybe not.
+
+In this talk, I’ll introduce techniques for using untrusted third-party services to analyze private information without ending up burning in hell.
+
+#### About Frank
+
+I maintain a few things in Zig as [@jedisct1](https://github.com/jedisct1) on GitHub and in the [std.crypto namespace](https://github.com/ziglang/zig/tree/master/lib/std/crypto) of the Zig standard library.
+
+# []($section.id('right'))
+#![](speaker.jpeg "speaker")
+
+> Frank Denis
+
