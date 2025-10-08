@@ -24,7 +24,6 @@ In this talk, I’ll introduce techniques for using untrusted third-party servic
 I maintain a few things in Zig as [@jedisct1](https://github.com/jedisct1) on GitHub and in the [std.crypto namespace](https://github.com/ziglang/zig/tree/master/lib/std/crypto) of the Zig standard library.
 
 # []($section.id('right'))
-#![](speaker.jpeg "speaker")
 
 > Frank Denis
 
