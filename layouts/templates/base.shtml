@@ -37,14 +37,14 @@
     <footer>
       <hr>
       <div class="centered">This site is build using <a href="https://zine-ssg.io/" target="_blank">Zine</a></div>
-      
-      Responsible for the content of this page is David Sugar (zigtoberfest (at) thesugar.de).
-      
-      <adress>David Pierre Sugar<br>
-        c/o MDC Management#3297<br>
-        Welserstraße 3<br>
-        87463 Dietmannsried
-      </adress>
+      <p>Responsible for the content of this page is David Sugar (zigtoberfest (at) thesugar.de).</p>
+      <p>
+          <adress>David Pierre Sugar<br>
+            c/o MDC Management#3297<br>
+            Welserstraße 3<br>
+            87463 Dietmannsried
+          </adress>
+      </p>
     </footer>
   </body>
 </html>
