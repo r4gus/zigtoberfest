@@ -6,29 +6,10 @@
 .draft = false,
 --- 
 
-> [Hochschule München](https://hm.edu/hochschule_muenchen/kontakt/umfeld_standort/campus_lothstrasse/lothstrasse.de.html) Lothstraße 64 80335 Munich, Germany, R 0.058
+> Thank you all for attending Zigtoberfest 2025! We are going to publish all recordings on the [@zigtoberfest](https://www.youtube.com/@zigtoberfest) YouTube channel.
 
 ```=html
-<div id="eventbrite-widget-container-1209874409929"></div>
-
-<script src="https://www.eventbrite.de/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Bestellung ist abgeschlossen!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '1209874409929',
-        iframeContainerId: 'eventbrite-widget-container-1209874409929',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+<iframe width="560" height="315" src="https://youtube.com/embed/AEybWzeAkho" frameborder="0" allowfullscreen></iframe>
 ```
 
 # What is Zigtoberfest?
@@ -54,10 +35,6 @@ The Name Zigtoberfest is a combination of the words Zig (the programming languag
 - Location: University of Applied Sciences Munich, **R 0.058**
 - Time: 9am - 5:30pm (09:00 - 17:30 Uhr)
 - [Join the Discord Server!](https://discord.gg/3zmWuuPWzQ)
-
-```=html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UChG4-JbUgNQHlVdJGc2-pLA" frameborder="0" allowfullscreen></iframe>
-```
 
 ![](Zigtoberfest-round.png "zober02")
 
