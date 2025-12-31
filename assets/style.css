@@ -16,18 +16,67 @@ a {
   color: #eee;
 }
 
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 280px) {
+    body {
+      width: 95%;
+      padding: 15px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    img {
+        max-width: 95%;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+    html {
+        font-size: 0.8em;
+    }
+}
+
+iframe {
+  align-self: center;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 800px) {
+    body {
+      width: 800px;
+      padding: 15px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    img {
+        max-width: 800px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+    html {
+        font-size: 1.2em;
+    }
+}
+
 html {
   color: #ccc;
   font-family: "Georgia", serif;
-  font-size: 1.2em;
   display: flex;
   flex-direction: row;
   justify-content: center;
   // https://uiverse.io/muhammad_1180/ordinary-fish-9
   position: absolute;
   inset: 0;
-  width: 100%;
-  height: 180%;
+  height: 200%;
   background: #212121;
   background: radial-gradient(125% 125% at 50% 10%, #212121 40%, #63e 100%);
   z-index: -10;
