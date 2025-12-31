@@ -1,40 +1,28 @@
 ---
-.title = "OCT 25th 2025",
+.title = "",
 .date = @date("1990-01-01T00:00:00"),
 .author = "David P. Sugar",
 .layout = "index.shtml",
 .draft = false,
 --- 
 
-> Thank you all for attending Zigtoberfest 2025! We are going to publish all recordings on the [@zigtoberfest](https://www.youtube.com/@zigtoberfest) YouTube channel.
+## Call for Speakers
+
+If you're interested in giving a talk at Zigtoberfest 2026, we'd love to [hear from you](https://docs.google.com/forms/d/e/1FAIpQLSeuEnT_aMCJiceaHq1fqjHGUFhz48C1d0du91jNRsMczNlH5A/viewform?usp=dialog)! We welcome talk submissions of all kinds, from technical topics to personal experiences and lessons learned. You don’t need to be a professional speaker—if you’re excited about your topic, we want to hear it.
 
 ```=html
-<iframe width="560" height="315" src="https://youtube.com/embed/AEybWzeAkho" frameborder="0" allowfullscreen></iframe>
+<button class="learn-more">
+  <span aria-hidden="true" class="circle">
+  <span class="icon arrow"></span>
+  </span>
+  <span class="button-text"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeuEnT_aMCJiceaHq1fqjHGUFhz48C1d0du91jNRsMczNlH5A/viewform?usp=dialog" style="text-decoration: none;">Submit a talk</a></span>
+</button>
 ```
 
-# What is Zigtoberfest?
-Zigtoberfest, launched in 2024, is a conference focused on sharing experience and knowledge among the Zig community. This event is a fantastic chance to connect with like-minded individuals from the Zig community and share your passion for programming.
+## About Zigtoberfest
 
-You can find the recordings of Zigtoberfest 2024 on [Youtube](https://www.youtube.com/@zigtoberfest/videos).
+Zigtoberfest is an independent conference dedicated not only to [Zig](https://ziglang.org/) but also to programming in general. Its primary goal is to provide a platform for hobbyists and professionals to connect and share knowledge as well as their passion for programming.
 
-The event is open to everyone--all at no cost! We have limited seats available so make sure to <a href="https://www.eventbrite.de/e/zigtoberfest-2025-tickets-1209874409929?aff=oddtdtcreator" target="_blank">Register Now</a>!
+## Sponsoring Information
 
-The Name Zigtoberfest is a combination of the words Zig (the programming language) and Oktoberfest, as the event takes place in Munich. It was coined by [Rene](https://renerocks.ai/) during a discussion on Discord.
-
-# What is Zig?
-
-[Zig](https://ziglang.org/) is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software. Among other things, it offers a fresh approach to metaprogramming based on compile-time code execution and lazy evaluation. Zig can also be used as a zero-dependency, drop-in C/C++ compiler that supports cross-compilation out-of-the-box.
-
-# Want to give a talk at Zigtoberfest?
-
-[Click here](https://form.jotform.com/241586649790068) to submit a proposal for a presentation at Zigtoberfest, we'd love to hear your ideas!
-
-# Event Details
-
-- Date: Saturday Oct 25th 2025
-- Location: University of Applied Sciences Munich, **R 0.058**
-- Time: 9am - 5:30pm (09:00 - 17:30 Uhr)
-- [Join the Discord Server!](https://discord.gg/3zmWuuPWzQ)
-
-![](Zigtoberfest-round.png "zober02")
-
+Is your organization interested in supporting Zigtoberfest? Email us at <a href="mailto:info@zigtoberfest.de">info@zigtoberfest.de</a> for more information.

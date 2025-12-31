@@ -1,19 +1,11 @@
 Site {
-    .title = "Zigtoberfest",
+    .title = "Zigtoberfest 2026",
     .host_url = "https://zigtoberfest.de/",
     .content_dir_path = "content",
     .layouts_dir_path = "layouts",
     .assets_dir_path = "assets",
     .static_assets = [
         "Temml.woff2",
-        "Zigtoberfest-02-bavaria.png",
-        "all.JPG",
-        "attendees.png",
-        "fr.JPG",
-        "luke.JPG",
-        "mattia.JPG",
-        "rene01.JPG",
-        "reneanddavid.JPG",
         "favicon.ico",
     ],
 }
