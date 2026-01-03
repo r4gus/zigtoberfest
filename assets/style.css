@@ -76,7 +76,7 @@ html {
   // https://uiverse.io/muhammad_1180/ordinary-fish-9
   position: absolute;
   inset: 0;
-  height: 200%;
+  //height: 200%;
   background: #212121;
   background: radial-gradient(125% 125% at 50% 10%, #212121 40%, #63e 100%);
   z-index: -10;

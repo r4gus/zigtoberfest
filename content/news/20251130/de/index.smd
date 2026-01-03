@@ -1,0 +1,38 @@
+---
+.title = "Zigtoberfest 2025: Rückblick, Erfahrungen und Ausblick",
+.date = @date("1990-01-01T00:00:00"),
+.author = "David P. Sugar",
+.layout = "post.shtml",
+.draft = false,
+--- 
+
+Das Zigtoberfest entstand vorletztes Jahr aus den Zig Meetups, welche bis dahin in regelmäßigen Abständen in München stattfanden. Diese Meetups boten eine gute Gelegenheit sich mit Gleichgesinnten über Zig auszutauschen, jedoch hatte ich auch immer im Hinterkopf, etwas Größeres auf die Beine stellen zu wollen. Nachdem es hierfür Zuspruch, sowohl von der Zig-Community aus München, als auch Online, gab, entschloss ich mich eine kleine Zig-Konferenz auf die Beine zu stellen, bei der sich die Teilnehmer, in etwas größerem Rahmen, über Zig, Computer und allem, was damit zu tun hat austauschen können. Natürlich war hierbei [Software You Can Love (SYCL)](https://softwareyoucan.love/) das große Vorbild. An dieser Stelle möchte ich jedoch klar betonen, dass das Zigtoberfest nicht in Konkurrenz zu SYCL und anderen Veranstaltungen stehen möchte. Vielmehr sehe ich das Zigtoberfest als zusätzliche Gelegenheit für die Zig-Community und alle anderweitig Interessierten, mit Gleichgesinnten zusammenzukommen und Erfahrungen auszutauschen und die eigene Leidenschaft für Computer und das Programmieren zu teilen. Sei es durch interessante Vorträge oder den persönlichen Austausch bei einem Spezi. Besonders der Austausch mit Gleichgesinnten, egal ob bei Zig Meetups, SYCL, Zigtoberfest oder einem [Zig Day](https://zig.day/), bereitet mir persönlich immer viel Freude.
+
+![](kollage.png "Zigtobrefest 2025 impressions")
+
+Nachdem es viel positives Feedback von den Teilnehmern des ersten Zigtoberfests gegeben hatte, entschloss ich mich auch 2025 ein Zigtoberfest zu organisieren. Als Event-Location wurde mir dankenswerterweise wieder, durch Unterstützung von Herrn Prof. Schreck, die Hochschule München angeboten, was es mir erlaubte die Kosten gering zu halten, wodurch ich die Tickets umsonst anbieten konnte. Dies birgt aus meiner Sicht jedoch einige Herausforderungen, da ein kostenloses Ticket schnell reserviert ist. Ob die Personen jedoch tatsächlich erscheinen, kann kaum vorausgesagt werden. Am Schluss hatten wir ca. 70 aktive Teilnehmer und eine No-Show-Quote von in etwa 40 %, was anscheinend relativ normal bei kostenlosen Tickets ist. Aus meiner Sicht ein voller Erfolg und mehr als eine Dopplung der Teilnehmerzahl, verglichen zum Zigtoberfest 2024.
+
+Ich bin jedem Teilnehmer und auch jedem Speaker extrem dankbar für den Erfolg und das viele positive Feedback. Zwar organisiere ich, mit der tatkräftigen Unterstützung meiner Freundin Franziska, die Konferenz, jedoch glaube ich fest daran, dass die entscheidenden Faktoren für eine gute Konferenz sowohl die Speaker als auch Teilnehmer sind. Weiterhin vielen Dank an alle, die etwas gespendet haben!
+
+Das Speaker-Line-up dieses Jahr war mehr als zufriedenstellend aus meiner Sicht. Die Talks deckten ein breites Spektrum an Themen ab, von Zig-spezifischen Themen wie etwa einer Demo des neuen Async I/O, über Terminal-Games, bis hin zu Kryptografie war für jeden etwas dabei.
+
+Weiterhin freute es mich, dass ich viele Teilnehmer gegen 20 Uhr persönlich aus dem Veranstaltungsort schmeißen musste, weil diese, anstelle zu gehen, noch in anregenden Gesprächen vertieft waren.
+
+An dieser Stelle möchte ich Teile einer E-Mail zitieren, die mich in den Tagen nach dem Zigtoberfest erreicht hatte.
+
+> _Letztendlich bin ich froh, gekommen zu sein. Ich war vorher noch nicht an der Hochschule München und daher zuerst einmal positiv vom Veranstaltungsort überrascht. Toll, dass die Hochschule so eine Veranstaltung unterstützt. Der Raum war gut geeignet. Die zweite positive Überraschung waren dann die freundlichen Menschen, die zu dieser Veranstaltung gekommen sind. Ich hatte bisher wenig Kontakt mit der OSS-Community und daher gewisse Vorbehalte. Die dritte positive Überraschung war der Kaffee 😅 vielen lieben Dank dafür. Ich habe kräftig gespendet, nicht nur Kaffee in den Becher._
+>
+> _Die Vorträge waren gut zusammengestellt. Gekommen war ich zwar wegen Andrew Kelley, einfach um ihn einmal in Person zu erleben, aber auch aus den anderen Vorträgen konnte ich etwas mitnehmen. Mich hat insbesondere der Vortrag von Mario Schallner mitgenommen, weil ich seine Begeisterung spüren konnte und er seine Präsentation mit Liebe vorbereitet hat. Man merkte ihm zwar an, dass er als Präsentator noch nicht so viel Erfahrung hat wie beispielsweise Andrew Kelley, aber das hat der Botschaft nicht im Weg gestanden._
+
+
+Das einzige Problem aus meiner Sicht waren die technischen Schwierigkeiten während den Aufzeichnungen. Zum einen hatten wir anfänglich Probleme mit der Videoaufzeichnung aber auch der Ton hätte schlussendlich besser sein können. Dinge die in Zukunft hoffentlich besser laufen werden.
+
+Apropos Zukunft. Ja, es wird ein nächstes Zigtoberfest geben. Ich habe lange darüber nachgedacht, wie ein zukünftiges Zigtoberfest aussehen könnte und bin zu dem Entschluss gekommen, dass ich das Zigtobrefest veranstalte, solange keine SYCL-Konferenz in Europa stattfindet. Das heißt mit Blick auf [SYCL 2026 in Vancouver](https://mattnite.net/blog/sycl-2026-announcement/) auch, dass ein Zigtoberfest 2026 geplant ist. Zeitlich werde ich mich wieder am Oktoberfest orientieren. Die Veranstaltung wird jedoch entweder vor oder nach dem Oktoberfest stattfinden, um exorbitante Hotelkosten für die Teilnehmer zu vermeiden. Weiterhin werde ich das Zigtoberfest nicht mehr kostenlos anbieten können. Ich werde jedoch versuchen die Kosten relativ gering zu halten.
+
+Ich wünsche allen einen besinnlichen Dezember und freue mich schon auf all die anstehenden Meetups und Konferenzen im Jahr 2026!
+
+David
+
+P.S. Die Zig-Meetups in München finden seit dem 20.11.2025 wieder statt. Wir halten euch via den Zig-Discord auf dem neuesten Stand.
+
+> Englische Version <a href="/news/20251130/en"><b>hier</b></a> verfügbar.

@@ -1,0 +1,37 @@
+---
+.title = "Zigtoberfest 2025: Reflections, Experiences, and What Lies Ahead",
+.date = @date("1990-01-01T00:00:00"),
+.author = "David P. Sugar",
+.layout = "post.shtml",
+.draft = false,
+--- 
+
+The Zigtoberfest originated the year before last from the Zig meetups, which until then had taken place at regular intervals in Munich. These meetups offered a great opportunity to exchange ideas about Zig with like-minded people, but I had always had in the back of my mind the desire to put together something bigger. After receiving support for this — both from the Zig community in Munich and online — I decided to organize a small Zig conference where participants could exchange ideas about Zig, computers, and everything related to them in a slightly larger setting. Naturally, [Software You Can Love (SYCL)](https://softwareyoucan.love/) was the big role model here. However, I would like to emphasize clearly that Zigtoberfest does not aim to compete with SYCL or other events. Rather, I see Zigtoberfest as an additional opportunity for the Zig community and anyone else interested to come together with like-minded people, exchange experiences, and share their passion for computers and programming — whether through interesting talks or personal conversations over a Spezi. I personally always greatly enjoy the exchange with like-minded people, whether at Zig meetups, SYCL, Zigtoberfest, or a [Zig Day](https://zig.day/).
+
+![](kollage.png "Zigtobrefest 2025 impressions")
+
+After receiving a lot of positive feedback from the participants of the first Zigtoberfest, I decided to organize another in 2025. Thanks to the support of Professor Schreck, the Munich University of Applied Sciences was once again offered to me as the event location, allowing me to keep costs low and thus make the tickets free of charge. From my point of view, however, this comes with some challenges, as a free ticket is reserved quickly — but whether the person will actually show up is hard to predict. In the end, we had around 70 active participants and a no-show rate of about 40%, which apparently is quite normal for free tickets. From my perspective, it was a complete success and more than double the number of participants compared to Zigtoberfest 2024.
+
+I am extremely grateful to every participant and every speaker for the success and all the positive feedback. While I organize the conference — with the energetic support of my girlfriend Franziska — I firmly believe that the decisive factors for a good conference are both the speakers and the participants. Many thanks also to everyone who donated!
+
+The speaker line-up this year was more than satisfactory in my view. The talks covered a wide range of topics — from Zig-specific subjects such as a demo of the new async I/O, to terminal games, and even cryptography — so there was something for everyone.
+
+I was also delighted that I had to personally throw out many participants around 8 p.m. because instead of leaving, they were still engrossed in lively conversations.
+
+At this point, I would like to quote parts of an email I received in the days after Zigtoberfest:
+
+> _In the end, I’m glad I came. I had never been to Munich University of Applied Sciences before and was therefore pleasantly surprised by the venue. Great that the university supports such an event. The room was well suited. The second positive surprise was the friendly people who came to this event. I had had little contact with the OSS community before and therefore had certain reservations. The third positive surprise was the coffee 😅 Thank you very much for that. I donated generously — and not just coffee into the cup._
+>
+> _The talks were well put together. I came mainly because of Andrew Kelley, simply to experience him in person once, but I was also able to take something away from the other talks. I was particularly moved by Mario Schallner’s talk because I could feel his enthusiasm and he had prepared his presentation with love. You could tell that he didn’t yet have as much experience as a presenter as, for example, Andrew Kelley, but that didn’t get in the way of the message._
+
+The only problem from my perspective were the technical difficulties during the recordings. On the one hand, we initially had issues with the video recording, and in the end, the sound could have been better as well — things that will hopefully go more smoothly in the future.
+
+Speaking of the future: yes, there will be another Zigtoberfest. I thought for a long time about what a future Zigtoberfest could look like and came to the conclusion that I will continue to organize it as long as there is no SYCL conference taking place in Europe. With [SYCL 2026](https://mattnite.net/blog/sycl-2026-announcement/) planned in Vancouver, this means that a Zigtoberfest 2026 is also planned. As for timing, I will again orient myself around the Oktoberfest. However, the event will take place either before or after the Oktoberfest in order to avoid exorbitant hotel costs for participants. Furthermore, I will no longer be able to offer Zigtoberfest for free, but I will try to keep the costs relatively low.
+
+I wish everyone a peaceful December and am already looking forward to all the upcoming meetups and conferences in 2026!
+
+David
+
+P.S. The Zig meetups in Munich have been taking place again since November 20, 2025. We’ll keep you up to date via the Zig Discord.
+
+> German version available <a href="/news/20251130/de"><b>here</b></a>.

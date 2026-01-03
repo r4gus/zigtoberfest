@@ -19,9 +19,12 @@
 	</head>
 	<body id="body">
 		<h1 class="site-title" :text="$site.title"></h1>
+        <nav>
+			<a href="$site.page('').link()">Home</a>
+            &emsp;
+			<a href="$site.page('news').link()">News</a>
+        </nav>
 		<nav>
-			<!--<a href="$site.page('').link()">Home</a>-->
-
             <div class="socialcard">
               <a class="social-link3" href="https://discord.gg/3zmWuuPWzQ">
                 <svg style="color: white" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">

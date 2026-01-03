@@ -1,0 +1,28 @@
+---
+.title = "News",
+.date = @date("1990-01-01T00:00:00"),
+.author = "David P. Sugar",
+.layout = "index.shtml",
+.draft = false,
+---
+
+> On this page we will publish news related to the upcoming Zigtoberfest.
+
+## Jan 1st 2026
+
+Zigtoberfest 2026 Call for Speakers released.
+
+## Zigtoberfest 2025: Reflections, Experiences, and What Lies Ahead
+
+- <a href="/news/20251130/en"><b>Blog post in english</b></a>
+- <a href="/news/20251130/de"><b>Blog-Post auf Deutsch</b></a>
+
+## Aug 4th 2025
+
+We're sold out! While we'd like to welcome more people to the event, we are limited by the event location's capacity. It's amazing to see so much interest in the event and we're looking forward to meet you all in person on Oct 25th &#127881;.
+
+## May 2nd 2025
+
+- The website has been updated to work with [Zine `v0.10.2`](https://github.com/kristoff-it/zine/releases/tag/v0.10.2).
+- New layout for website.
+- The agenda has been added.
