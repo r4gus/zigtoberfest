@@ -15,6 +15,10 @@
 		<script defer src="$site.asset('temml.min.js').link()"></script>
 		<script defer src="$site.asset('render-mathtex.js').link()"></script>
 		<!-- /mathtex -->
+        
+		<!-- umami stats -->
+        <script defer src="https://cloud.umami.is/script.js" data-website-id="343a3bb5-64e4-4e42-8c8c-3c0a21725ad3"></script>
+		<!-- /umami stats -->
 		<super>
 	</head>
 	<body id="body">
@@ -98,6 +102,8 @@
 		<footer>
 			<hr>
             <p>This site is build using <a href="https://zine-ssg.io/" target="_blank">Zine</a></p>
+            <br>
+            <p><b>Imprint</b></p>
             <p>Contact us via <a href="mailto:info@zigtoberfest.de">info@zigtoberfest.de</a></p>
             <p>
             <adress>David Pierre Sugar<br>
@@ -106,6 +112,9 @@
                 87463 Dietmannsried
             </adress>
             </p>
+            <br>
+            <p><b>Privacy Policy</b></p>
+            <p>This website uses Umami for analytics. <a href="https://umami.is/docs">Umami</a> does not collect any personally identifiable information and anonymizes all data collected. Users cannot be identified and are never tracked across websites.</p>
 		</footer>
 	</body>
 </html>
