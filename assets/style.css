@@ -3,17 +3,17 @@ h2,
 h3,
 h4,
 h5 {
-  color: #ddd;
+  color: black;
   font-family: "Verdana", sans-serif;
 }
 
 b,
 strong {
-  color: #fff;
+  color: orange;
 }
 
 a {
-  color: #eee;
+  color: orange;
 }
 
 /* Medium Devices, Desktops */
@@ -68,7 +68,7 @@ iframe {
 }
 
 html {
-  color: #ccc;
+  color: black;
   font-family: "Georgia", serif;
   display: flex;
   flex-direction: row;
@@ -78,7 +78,7 @@ html {
   inset: 0;
   //height: 200%;
   background: #212121;
-  background: radial-gradient(125% 125% at 50% 10%, #212121 40%, #63e 100%);
+  background: radial-gradient(125% 125% at 50% 10%, white 60%, orange 100%);
   z-index: -10;
 }
 
@@ -98,7 +98,7 @@ body {
 nav {
   display: flex;
   flex-direction: row;
-  justify-content: left;
+  justify-content: center;
   font-size: 1.2em;
   margin-bottom: 20px;
 }
