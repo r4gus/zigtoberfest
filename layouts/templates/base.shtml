@@ -10,6 +10,7 @@
 		<link type="text/css" rel="stylesheet" href="$site.asset('social.css').link()">
 		<link type="text/css" rel="stylesheet" href="$site.asset('carousel.css').link()">
 		<link type="text/css" rel="stylesheet" href="$site.asset('button.css').link()">
+        <link type="text/css" rel="stylesheet" href="$site.asset('accordion.css').link()">
 		<!-- mathtex -->
 		<link type="text/css" rel="stylesheet" href="$site.asset('Temml-Local.css').link()">
 		<script defer src="$site.asset('temml.min.js').link()"></script>
@@ -28,6 +29,8 @@
 			<a href="$site.page('').link()">Home</a>
             &emsp;
 			<a href="$site.page('news').link()">News</a>
+            &emsp;
+			<a href="$site.page('past').link()">Past Events</a>
         </nav>
 		<nav>
             <div class="socialcard">
