@@ -10,7 +10,6 @@
 		<link type="text/css" rel="stylesheet" href="$site.asset('social.css').link()">
 		<link type="text/css" rel="stylesheet" href="$site.asset('carousel.css').link()">
 		<link type="text/css" rel="stylesheet" href="$site.asset('button.css').link()">
-        <link type="text/css" rel="stylesheet" href="$site.asset('accordion.css').link()">
 		<!-- mathtex -->
 		<link type="text/css" rel="stylesheet" href="$site.asset('Temml-Local.css').link()">
 		<script defer src="$site.asset('temml.min.js').link()"></script>
