@@ -1,0 +1,19 @@
+---
+.title = "Event Location",
+.date = @date("1990-01-01T00:00:00"),
+.author = "David P. Sugar",
+.layout = "index.shtml",
+.draft = false,
+---
+
+Zigtoberfest 2026 is going to take place at the [Hoftheater München](https://hof.theater/), a non-profit corporate company.
+
+You can reach the location from Munich Central Station in about 20 minutes by taking the subway line **U5** til **Schwanthalerhöhe** and then take the bus **53** and exit at **Sendlinger Kirche**.
+
+![](theater.jpeg "Hoftheater Munich")
+
+![](buehne.jpeg "Hoftheater stage")
+
+One can find multiple cafe's and restaurants in the surrounding area.
+
+Due to the location of the Hoftheater on the 1st floor without an elevator, we unfortunately cannot offer barrier-free access.
