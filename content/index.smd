@@ -11,6 +11,77 @@
 - Date: **September 12th 2026**
 - Location: [**Hoftheater München**](https://hof.theater/)
 
+## Speakers
+
+```=html
+<div class="grid-container">
+    <!-- Item 1 -->
+    <div class="grid-item">
+        <div class="image-container">
+            <img src="/rene.png" alt="Rene Schallner">
+        </div>
+        <div class="item-info">
+            <div class="item-name"><a href="https://renerocks.ai/">Rene Schallner</a></div>
+            <div class="item-affiliation">Founder of <a href="https://technologylab.ai/">AI Research & Technology Lab</a></div>
+        </div>
+    </div>
+
+    <!-- Item 2 -->
+    <div class="grid-item">
+        <div class="image-container">
+            <img src="/quantum.png" alt="QuantumDeveloper">
+        </div>
+        <div class="item-info">
+            <div class="item-name"><a href="https://www.youtube.com/@quantumdeveloper2733">QuantumDeveloper</a></div>
+            <div class="item-affiliation">Developer of <a href="https://github.com/PixelGuys/Cubyz">Cubyz</a></div>
+        </div>
+    </div>
+
+    <!-- Item 3 -->
+    <div class="grid-item">
+        <div class="image-container">
+            <img src="/Zigtoberfest-round.png" alt="Speaker 3">
+        </div>
+        <div class="item-info">
+            <div class="item-name">To be announced</div>
+            <div class="item-affiliation">To be announced</div>
+        </div>
+    </div>
+
+    <!-- Item 4 -->
+    <div class="grid-item">
+        <div class="image-container">
+            <img src="/Zigtoberfest-round.png" alt="Speaker 4">
+        </div>
+        <div class="item-info">
+            <div class="item-name">To be announced</div>
+            <div class="item-affiliation">To be announced</div>
+        </div>
+    </div>
+
+    <!-- Item 5 -->
+    <div class="grid-item">
+        <div class="image-container">
+            <img src="/Zigtoberfest-round.png" alt="Speaker 5">
+        </div>
+        <div class="item-info">
+            <div class="item-name">To be announced</div>
+            <div class="item-affiliation">To be announced</div>
+        </div>
+    </div>
+
+    <!-- Item 6 -->
+    <div class="grid-item">
+        <div class="image-container">
+            <img src="/Zigtoberfest-round.png" alt="Speaker 6">
+        </div>
+        <div class="item-info">
+            <div class="item-name">To be announced</div>
+            <div class="item-affiliation">To be announced</div>
+        </div>
+    </div>
+</div>
+```
 
 ## Call for Speakers
 

@@ -1,0 +1,15 @@
+---
+.title = "Privacy Policy",
+.date = @date("1990-01-01T00:00:00"),
+.author = "David P. Sugar",
+.layout = "index.shtml",
+.draft = false,
+--- 
+
+We collect information to facilitate the operation of the conference. Your information, including name and email address, are only processed for ticket purchases, to grant you access at the day of the event, and to provide you with information about the event. Your data is only shared with third parties, e.g. payment providers, to the extent necessary to facilitate the operation of the conference.
+
+To request your information to be removed, please contact info@zigtoberfest.de.
+
+### Tracking
+
+This website uses Umami for analytics. [Umami](https://umami.is/docs) does not collect any personally identifiable information and anonymizes all data collected. Users cannot be identified and are never tracked across websites.

@@ -1,0 +1,22 @@
+---
+.title = "Imprint",
+.date = @date("1990-01-01T00:00:00"),
+.author = "David P. Sugar",
+.layout = "index.shtml",
+.draft = false,
+--- 
+
+## Data according to § 5 TMG
+
+```=html
+<adress>David Sugar<br>
+    Dachauer Str. 263<br>
+    80637 München
+</adress>
+```
+
+## Contact
+
+```=html
+E-Mail: <a href="mailto:info@zigtoberfest.de">info@zigtoberfest.de</a>
+```

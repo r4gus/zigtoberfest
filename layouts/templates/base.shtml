@@ -60,18 +60,10 @@
 			<hr>
             <p>This site is build using <a href="https://zine-ssg.io/" target="_blank">Zine</a></p>
             <br>
-            <p><b>Imprint</b></p>
-            <p>Contact us via <a href="mailto:info@zigtoberfest.de">info@zigtoberfest.de</a></p>
             <p>
-            <adress>David Pierre Sugar<br>
-                c/o MDC Management#3297<br>
-                Welserstraße 3<br>
-                87463 Dietmannsried
-            </adress>
+                <b><a href="/imprint">Imprint</a></b>,
+                <b><a href="/privacy">Privacy Policy</a></b>
             </p>
-            <br>
-            <p><b>Privacy Policy</b></p>
-            <p>This website uses Umami for analytics. <a href="https://umami.is/docs">Umami</a> does not collect any personally identifiable information and anonymizes all data collected. Users cannot be identified and are never tracked across websites.</p>
 		</footer>
 	</body>
 </html>
