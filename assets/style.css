@@ -26,7 +26,6 @@ a {
     }
 
     img {
-        max-width: 95%;
         text-align: center;
         margin-left: auto;
         margin-right: auto;
@@ -168,7 +167,7 @@ footer hr {
     padding-bottom: 100%; /* Creates a 1:1 aspect ratio */
     position: relative;
     overflow: hidden;
-    background-color: #e0e0e0;
+    background-color: white;
 }
 
 .image-container img {
@@ -206,6 +205,16 @@ footer hr {
 
 @media (max-width: 480px) {
     .grid-container {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, 0.9fr);
     }
+
+    .item-name {
+        font-size: 12px;
+    }
+
+    .item-affiliation {
+        font-size: 10px;
+        color: #666;
+    }
+}
 }
