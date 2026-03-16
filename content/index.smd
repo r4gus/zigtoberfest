@@ -33,7 +33,10 @@
         </div>
         <div class="item-info">
             <div class="item-name"><a href="https://www.youtube.com/@quantumdeveloper2733">Quantum Developer</a></div>
-            <div class="item-affiliation">Developer of <a href="https://github.com/PixelGuys/Cubyz">Cubyz</a></div>
+            <div class="item-affiliation">
+                Developer of <a href="https://github.com/PixelGuys/Cubyz">Cubyz</a>,<br>
+                Support the project on <a href="https://www.patreon.com/cw/Cubyz">Patreon</a>
+            </div>
         </div>
     </div>
 
