@@ -43,11 +43,11 @@
     <!-- Item 3 -->
     <div class="grid-item">
         <div class="image-container">
-            <img src="/Zigtoberfest-round.png" alt="Speaker 3">
+            <img src="/mario.webp" alt="Mario Schallner">
         </div>
         <div class="item-info">
-            <div class="item-name">To be announced</div>
-            <div class="item-affiliation">To be announced</div>
+            <div class="item-name"><a href="https://m64.io/">Mario Schallner</a></div>
+            <div class="item-affiliation">"I love pixels"</div>
         </div>
     </div>
 
