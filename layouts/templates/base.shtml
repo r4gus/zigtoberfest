@@ -32,6 +32,8 @@
 			<a href="$site.page('past').link()">Past Events</a>
             &emsp;
 			<a href="$site.page('location').link()">Event Location</a>
+            &emsp;
+			<a href="$site.page('about').link()">About</a>
         </nav>
 		<nav>
             <div class="socialcard">

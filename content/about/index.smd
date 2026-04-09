@@ -1,0 +1,64 @@
+---
+.title = "About Zigtoberfest",
+.date = @date("1990-01-01T00:00:00"),
+.author = "David P. Sugar",
+.layout = "index.shtml",
+.draft = false,
+---
+
+Zigtoberfest is a small, independent conference that evolved out of [Zig](https://ziglang.org/) Meetups organized in Munich.
+The first Zigtoberfest was hosted at the [University of Applied Sciences Munich (Hochschule München)](https://hm.edu/) in 2024. 
+The University continued to support Zigtoberfest in 2025 by providing the location. In 2025 we were delighted to welcome
+six speakers and about 70 attendees from around the globe.
+
+Zigtoberfest 2026 is going to take place at [Hoftheater München](/location) at September 12 2026.
+
+## The Team
+
+Zigtoberfest is organized by David Sugar with the help of Franziska Diaconu and volunteers from the Zig community.
+
+```=html
+<div class="grid-container">
+    <!-- Item 1 -->
+    <div class="grid-item">
+        <div class="image-container">
+            <img src="/david.jpeg" alt="David Sugar">
+        </div>
+        <div class="item-info">
+            <div class="item-name"><a href="https://github.com/r4gus">David Sugar</a></div>
+            <div class="item-affiliation">OSS Dev and Organizer of Zigtoberfest</div>
+        </div>
+    </div>
+
+    <!-- Item 2 -->
+    <div class="grid-item">
+        <div class="image-container">
+            <img src="/franzi.jpeg" alt="Franziska Diaconu">
+        </div>
+        <div class="item-info">
+            <div class="item-name"><a href="https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=F67836A2452379C5">Franziska Diaconu</a></div>
+            <div class="item-affiliation">Student at <a href="https://www.tum.de/">TUM</a></div>
+        </div>
+    </div>
+</div>
+```
+
+## Hall of Fame
+
+Over the years, we had the pleasure to welcome a lot of amazing speakers from the Zig community.
+
+### Zigtoberfest 2025
+
+- *Andrew Kelley & Zig Core Team*: Zig's New Async I/O Demo
+- *Lukas Pietzschmann*: Lock-free data structures in Zig
+- *Loris Cro*: How To Write Better Software With Zig
+- *Rene Schallner*: Running your Company on the Command-Line with Zig, LaTeX, Git, and ZAP⚡!
+- *Mario Schallner*: Next-Level Terminal Games and Visuals – How Zig Powers and Accelerates a Hacker’s Dream Canvas, Adding SID Sound on Top
+
+### Zigtoberfest 2024
+
+- *Loris Cro*: Zine: a Static Site Generator Written in Zig
+- *Mattia Maldini*: Approaches to Memory Mapped I/O
+- *Lukas Pietzschmann*: Exploring properties of constraint programs
+- *David Sugar*: Password Databases by Example
+- *Rene Schallner*: ZML
