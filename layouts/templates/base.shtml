@@ -30,7 +30,8 @@
 			<a href="$site.page('news').link()">News</a>
             &emsp;
 			<a href="$site.page('past').link()">Past Events</a>
-            &emsp;
+        </nav>
+        <nav>
 			<a href="$site.page('location').link()">Event Location</a>
             &emsp;
 			<a href="$site.page('about').link()">About</a>

@@ -26,6 +26,7 @@ a {
     }
 
     img {
+        max-width: 100%;
         text-align: center;
         margin-left: auto;
         margin-right: auto;
@@ -216,5 +217,4 @@ footer hr {
         font-size: 10px;
         color: #666;
     }
-}
 }
