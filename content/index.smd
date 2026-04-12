@@ -54,11 +54,11 @@
     <!-- Item 4 -->
     <div class="grid-item">
         <div class="image-container">
-            <img src="/Zigtoberfest-round.png" alt="Speaker 4">
+            <img src="/Zigtoberfest-round.png" alt="Peyman Mortazavi">
         </div>
         <div class="item-info">
-            <div class="item-name">To be announced</div>
-            <div class="item-affiliation">To be announced</div>
+            <div class="item-name"><a href="https://peymanmo.com/">Peyman Mortazavi</a></div>
+            <div class="item-affiliation">Software Engineer</div>
         </div>
     </div>
 
