@@ -2,11 +2,11 @@
 .title = "Imprint",
 .date = @date("1990-01-01T00:00:00"),
 .author = "David P. Sugar",
-.layout = "index.shtml",
+.layout = "indexnoindex.shtml",
 .draft = false,
 --- 
 
-## Data according to § 5 TMG
+## Data according to § 5 DDG
 
 ```=html
 <adress>David Sugar, CodeConnect<br>
@@ -15,8 +15,8 @@
 </adress>
 ```
 
-## Contact
-
 ```=html
+<br>
+<br>
 E-Mail: <a href="mailto:info@zigtoberfest.de">info@zigtoberfest.de</a>
 ```

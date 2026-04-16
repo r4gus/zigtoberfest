@@ -1,0 +1,8 @@
+<extend template="basenoindex.shtml">
+<head id="head">
+</head>
+
+<body id="body">
+	<h1 :text="$page.title"></h1>
+	<div :html="$page.content()"></div>
+</body>
