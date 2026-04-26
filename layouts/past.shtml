@@ -1,0 +1,147 @@
+<extend template="base.shtml">
+<head id="head">
+</head>
+
+<body id="body">
+    <!-- Hero Section -->
+    <section class="gallery-hero">
+        <div class="hero-content">
+            <h1 class="hero-title">Conference Gallery</h1>
+            <p class="hero-subtitle">Relive the moments from Zigtoberfest 2024 & 2025</p>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section class="gallery-section">
+        <div class="container">
+            <!-- 2025 Gallery -->
+            <div class="year-section">
+                <h2 class="year-title">Zigtoberfest 2025</h2>
+                <p class="year-description">Highlights from our most recent conference with 70+ attendees and inspiring speakers</p>
+
+                <div class="gallery-grid">
+                    <div class="gallery-item">
+                        <img src="" alt="Conference 2025 - Keynote">
+                        <div class="image-overlay">
+                            <p>Opening Keynote Session</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1552062407-291817471da7?w=600&h=400&fit=crop" alt="Conference 2025 - Workshop">
+                        <div class="image-overlay">
+                            <p>AI & Machine Learning Workshop</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop" alt="Conference 2025 - Networking">
+                        <div class="image-overlay">
+                            <p>Networking Session</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1552062407-291817471da7?w=600&h=400&fit=crop" alt="Conference 2025 - Panel">
+                        <div class="image-overlay">
+                            <p>Expert Panel Discussion</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1540575467063-178f50002cbc?w=600&h=400&fit=crop" alt="Conference 2025 - Audience">
+                        <div class="image-overlay">
+                            <p>Engaged Audience</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop" alt="Conference 2025 - Closing">
+                        <div class="image-overlay">
+                            <p>Closing Ceremony</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2024 Gallery -->
+            <div class="year-section">
+                <h2 class="year-title">TechConf 2024</h2>
+                <p class="year-description">Memorable moments from our inaugural conference featuring top industry leaders</p>
+
+                <div class="gallery-grid">
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1552062407-291817471da7?w=600&h=400&fit=crop" alt="Conference 2024 - Main Hall">
+                        <div class="image-overlay">
+                            <p>Main Conference Hall</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1540575467063-178f50002cbc?w=600&h=400&fit=crop" alt="Conference 2024 - Speaking">
+                        <div class="image-overlay">
+                            <p>Speaker Presentation</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop" alt="Conference 2024 - Breakout">
+                        <div class="image-overlay">
+                            <p>Breakout Session</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1552062407-291817471da7?w=600&h=400&fit=crop" alt="Conference 2024 - Booth">
+                        <div class="image-overlay">
+                            <p>Sponsor Booth Area</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1540575467063-178f50002cbc?w=600&h=400&fit=crop" alt="Conference 2024 - Attendees">
+                        <div class="image-overlay">
+                            <p>Conference Attendees</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop" alt="Conference 2024 - Dinner">
+                        <div class="image-overlay">
+                            <p>Networking Dinner</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <h2 class="section-title">What Attendees Say</h2>
+            <div class="testimonials-grid">
+                <div class="testimonial-card">
+                    <div class="stars">★★★★★</div>
+                    <p class="testimonial-text">"TechConf was an amazing experience! The speakers were world-class and the networking opportunities were invaluable. Can't wait for 2026!"</p>
+                    <p class="testimonial-author">- Sarah Mitchell, Tech Developer</p>
+                </div>
+                <div class="testimonial-card">
+                    <div class="stars">★★★★★</div>
+                    <p class="testimonial-text">"One of the best tech conferences I've attended. Great organization, inspiring talks, and wonderful community. Highly recommended!"</p>
+                    <p class="testimonial-author">- John Rodriguez, CTO</p>
+                </div>
+                <div class="testimonial-card">
+                    <div class="stars">★★★★★</div>
+                    <p class="testimonial-text">"The conference exceeded all my expectations. Learned so much from the workshops and made great connections. See you in 2026!"</p>
+                    <p class="testimonial-author">- Emily Chen, Startup Founder</p>
+                </div>
+                <div class="testimonial-card">
+                    <div class="stars">★★★★★</div>
+                    <p class="testimonial-text">"Fantastic event with incredible content. The team did an outstanding job organizing everything. Definitely attending next year!"</p>
+                    <p class="testimonial-author">- Michael Zhang, Engineering Manager</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="gallery-cta">
+        <div class="container">
+            <h2>Experience Zigtoberfest 2026</h2>
+            <p>Join us for Zigtoberfest 2026 and be part of our growing community</p>
+            <a href="index.html#register" class="cta-button-large">Register Now</a>
+        </div>
+    </section>
+</body>

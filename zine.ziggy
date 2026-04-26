@@ -12,6 +12,7 @@ Site {
         "quantum.png",
         "david.jpeg",
         "franzi.jpeg",
-	"mario.webp",
+	    "mario.webp",
+        "zig-mark.svg",
     ],
 }

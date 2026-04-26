@@ -3,6 +3,116 @@
 </head>
 
 <body id="body">
-	<h1 :text="$page.title"></h1>
-	<div :html="$page.content()"></div>
+    <!-- Hero Section -->
+    <section id="hero" class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title"><img width=60% src="$site.asset('Zigtoberfest-02-bavaria-2026.png').link()"></h1>
+            <p class="hero-subtitle">Zigtoberfest is an independent conference dedicated primarily to the <b>Zig</b> programming language. Our goal is to provide a platform for hobbyists and professionals to connect and share knowledge as well as the passion for programming.</p>
+            <button class="cta-button">Register Now</button>
+        </div>
+    </section>
+
+    <!-- Speakers Section -->
+    <section id="speakers" class="speakers">
+        <div class="container">
+            <h2 class="section-title">Speakers</h2>
+            <div class="speakers-grid">
+                <div class="speaker-card">
+                    <img src="$site.asset('rene.png').link()" alt="Rene Schallner" class="speaker-image">
+                    <h3><a href="https://renerocks.ai/">Rene Schallner</a></h3>
+                    <p class="speaker-role">Founder of <a href="https://technologylab.ai/">AI Research & Technology Lab</a></p>
+                    <!--<p class="speaker-bio">Leading the future of AI and machine learning with 15+ years of experience.</p>-->
+                </div>
+                <div class="speaker-card">
+                    <img src="$site.asset('quantum.png').link()" alt="QuantumDeveloper" class="speaker-image">
+                    <h3><a href="https://www.youtube.com/@quantumdeveloper2733">Quantum Developer</a></h3>
+                    <p class="speaker-role">Developer of <a href="https://github.com/PixelGuys/Cubyz">Cubyz</a></p>
+                    <!--<p class="speaker-bio">Leading the future of AI and machine learning with 15+ years of experience.</p>-->
+                </div>
+                <div class="speaker-card">
+                    <img src="$site.asset('mario.webp').link()" alt="Mario Schallner" class="speaker-image">
+                    <h3><a href="https://m64.io/">Mario Schallner</a></h3>
+                    <p class="speaker-role">Creator of <a href="https://github.com/M64GitHub/movy">movy</a></p>
+                    <!--<p class="speaker-bio">Leading the future of AI and machine learning with 15+ years of experience.</p>-->
+                </div>
+                <div class="speaker-card">
+                    <img src="$site.asset('Zigtoberfest-round.png').link()" alt="Peyman Mortazavi" class="speaker-image">
+                    <h3><a href="https://peymanmo.com/">Peyman Mortazavi</a></h3>
+                    <p class="speaker-role">Software Engineer</p>
+                    <!--<p class="speaker-bio">Leading the future of AI and machine learning with 15+ years of experience.</p>-->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Registration Section -->
+    <section id="register" class="register">
+        <div class="container">
+            <h2 class="section-title">Register Now</h2>
+            <p class="register-description">Choose your ticket type and join us for Zigtoberfest 2026</p>
+        </div>
+    </section>
+
+    <!-- Schedule Section -->
+    <section id="schedule" class="schedule">
+        <div class="container">
+            <h2 class="section-title">Conference Schedule</h2>
+            <div class="schedule-grid">
+                <div class="schedule-day">
+                    <h3>Day 0 - September 11</h3>
+                    <div class="schedule-item">
+                        <span class="time">13:00 - 18:00</span>
+                        <p>Zig Day @ Super Secret AG (Munich)</p>
+                    </div>
+                    <div class="schedule-item">
+                        <span class="time">19:00 - Open End</span>
+                        <p>Community Dinner</p>
+                    </div>
+                </div>
+                <div class="schedule-day">
+                    <h3>Day 1 - September 12</h3>
+                    <div class="schedule-item">
+                        <span class="time">10:30 - 10:45</span>
+                        <p>Introductory Remarks (David Sugar)</p>
+                    </div>
+                    <div class="schedule-item">
+                        <span class="time">10:45 - 11:30</span>
+                        <p>Talk 1</p>
+                    </div>
+                    <div class="schedule-item">
+                        <span class="time">12:00 - 12:45</span>
+                        <p>Talk 2</p>
+                    </div>
+                    <div class="schedule-item">
+                        <span class="time">12:45 - 14:00</span>
+                        <p>Networking Session & Coffee Break</p>
+                    </div>
+                    <div class="schedule-item">
+                        <span class="time">14:00 - 14:45</span>
+                        <p>Talk 3</p>
+                    </div>
+                    <div class="schedule-item">
+                        <span class="time">15:15 - 16:00</span>
+                        <p>Talk 4</p>
+                    </div>
+                    <div class="schedule-item">
+                        <span class="time">16:30 - 17:15</span>
+                        <p>Talk 5</p>
+                    </div>
+                    <div class="schedule-item">
+                        <span class="time">17:15 - 18:00</span>
+                        <p>Talk 6</p>
+                    </div>
+                    <div class="schedule-item">
+                        <span class="time">18:00 - 20:00</span>
+                        <p>Dinner & Networking</p>
+                    </div>
+                    <div class="schedule-item">
+                        <span class="time">20:00 - Open End</span>
+                        <p>Lightning Talks & Networking</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </body>
