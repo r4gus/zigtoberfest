@@ -6,6 +6,7 @@
 		<title :text="$site.title"></title>
 		<link type="text/css" rel="stylesheet" href="$site.asset('style.css').link()">
 		<link type="text/css" rel="stylesheet" href="$site.asset('gallery-style.css').link()">
+		<link type="text/css" rel="stylesheet" href="$site.asset('bavaria.css').link()">
 		<!-- mathtex -->
 		<link type="text/css" rel="stylesheet" href="$site.asset('Temml-Local.css').link()">
 		<script defer src="$site.asset('temml.min.js').link()"></script>

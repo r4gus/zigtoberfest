@@ -32,3 +32,34 @@
     opacity: 0.95;
 }
 
+/* ===========================
+   Video Gallery
+   =========================== */
+
+.video-gallery {
+    padding: 80px 20px;
+    background-color: var(--white);
+}
+
+.video-gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.video-gallery-card {
+    padding: 2rem;
+    border-radius: 5px;
+    text-align: center;
+    border: 2px solid transparent;
+    transition: all 0.3s ease;
+    overflow: hidden;
+}
+
+.video-gallery-card iframe {
+    width: 290px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 1.5rem;
+}

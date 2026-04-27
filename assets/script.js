@@ -43,3 +43,4 @@ const ctaButton = document.querySelector('.cta-button');
 ctaButton.addEventListener('click', () => {
     document.getElementById('register').scrollIntoView({ behavior: 'smooth' });
 });
+
