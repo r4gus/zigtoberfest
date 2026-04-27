@@ -1,0 +1,15 @@
+<extend template="base.shtml">
+<head id="head">
+</head>
+<body id="body">
+    <section class="talks">
+        <div class="section-title">
+	        <h1 :text="$page.title"></h1>
+        </div>
+    </section>
+    <section class="speakers">
+        <div class="container">
+	        <div :html="$page.content()"></div>
+        </div>
+    </section>
+</body>

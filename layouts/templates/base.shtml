@@ -28,6 +28,7 @@
                     <li :if="$page.link().eql($site.page('').link())"><a href="#speakers" class="nav-link">Speakers</a></li>
                     <li :if="$page.link().eql($site.page('').link())"><a href="#schedule" class="nav-link">Schedule</a></li>
                     <li :if="$page.link().eql($site.page('').link())"><a href="#register" class="nav-link">Register</a></li>
+                    <li><a href="$site.page('talks').link()" class="nav-link">Talks</a></li>
                     <li><a href="$site.page('past').link()" class="nav-link">Gallery</a></li>
                 </ul>
 

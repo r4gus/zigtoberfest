@@ -1,0 +1,19 @@
+<extend template="base.shtml">
+<head id="head">
+</head>
+<body id="body">
+    <section id="speakers" class="speakers">
+        <div class="container">
+            <h2 class="section-title" :text="$page.title"></h2>
+
+            <h1>Speaker</h1>
+
+            <div :html="$page.contentSection('img')"></div>
+            <h3 :html="$page.contentSection('name')"></h3>
+            <p class="speaker-role" :html="$page.contentSection('desc')"></p>
+
+            <h1>Abstract</h1>
+            <div :html="$page.contentSection('abstract')"></div>
+        </div>
+    </section>
+</body>

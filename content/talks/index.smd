@@ -1,0 +1,15 @@
+---
+.title = "Talks",
+.date = @date("1990-01-01T00:00:00"),
+.author = "David P. Sugar",
+.layout = "talks.shtml",
+.draft = false,
+--- 
+
+# 2026
+
+# 2025
+
+- [Running your Company on the Command-Line with Zig, LaTeX, Git, and ZAP⚡!](./20251025_rene)
+
+# 2024

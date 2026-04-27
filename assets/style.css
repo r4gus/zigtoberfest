@@ -828,3 +828,24 @@ a:visited {
     }
 }
 
+/* ===========================
+   Talks
+   =========================== */
+.talks {
+    padding: 80px 20px;
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--accent-color) 50%);
+    color: var(--white);
+    position: relative;
+    overflow: hidden;
+}
+
+.talks .section-title {
+    color: var(--white);
+}
+
+.talks-description {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-bottom: 3rem;
+    opacity: 0.95;
+}
