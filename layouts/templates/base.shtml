@@ -61,6 +61,11 @@
 		<super>
 		<footer>
 			<hr>
+            <h5>SITE UNDER CONSTRUCTION</h5>
+            <img src="$site.asset('under-construction.gif').link()" width=90>
+
+            <br>
+
             <p>This site is build using <a href="https://zine-ssg.io/" target="_blank">Zine</a></p>
             <br>
             <p>
