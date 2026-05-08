@@ -86,19 +86,6 @@
 </div>
 ```
 
-## Call for Speakers
-
-If you're interested in giving a talk at Zigtoberfest 2026, we'd love to [hear from you](https://docs.google.com/forms/d/e/1FAIpQLSeuEnT_aMCJiceaHq1fqjHGUFhz48C1d0du91jNRsMczNlH5A/viewform?usp=dialog)! We welcome talk submissions of all kinds, from technical topics to personal experiences and lessons learned. You don’t need to be a professional speaker—if you’re excited about your topic, we want to hear it.
-
-```=html
-<button class="learn-more">
-  <span aria-hidden="true" class="circle">
-  <span class="icon arrow"></span>
-  </span>
-  <span class="button-text"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeuEnT_aMCJiceaHq1fqjHGUFhz48C1d0du91jNRsMczNlH5A/viewform?usp=dialog" style="text-decoration: none;">Submit a talk</a></span>
-</button>
-```
-
 ## About Zigtoberfest
 
 Zigtoberfest is an independent conference dedicated not only to [Zig](https://ziglang.org/) but also to programming in general. Its primary goal is to provide a platform for hobbyists and professionals to connect and share knowledge as well as their passion for programming.
